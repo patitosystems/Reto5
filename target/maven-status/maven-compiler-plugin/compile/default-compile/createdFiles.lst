@@ -1,0 +1,4 @@
+entity\Proveedor.class
+test\TestMySQLJDBC.class
+test\TestCliente.class
+entity\Cliente.class
